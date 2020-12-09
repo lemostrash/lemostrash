@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Ubuntu", sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+  
+  body{
+    height: 100vh;
+    background: url(rua.gif) no-repeat center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .profile-card{
+    width: 400px;
+    text-align: center;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .card-header{
+    background: ;
+    padding: 60px 40px;
+  }
+  
+  .pic{
+    display: inline-block;
+    padding: 8px;
+    background: linear-gradient(130deg, #0092f3, #55b993);
+    margin: auto;
+    border-radius: 50%;
+    background-size: 200% 200%;
+    animation: animated-gradient 2s linear infinite;
+  }
+  
+  @keyframes animated-gradient{
+    25%{
+      background-position: left bottom;
+    }
+    50%{
+      background-position: right bottom;
+    }
+    75%{
+      background-position: right top;
+    }
+    100%{
+      background-position: left top;
+    }
+  }
+  
+  .pic img{
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .name{
+    color: #f2f2f2;
+    font-size: 28px;
+    font-weight: 600;
+    margin: 10px 0;
+  }
+  
+  .desc{
+    font-size: 18px;
+    color: #50ffbc;
+  }
+  
+  .sm{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .sm a{
+    color: #f2f2f2;
+    width: 56px;
+    font-size: 22px;
+    transition: .3s linear;
+  }
+  
+  .sm a:hover{
+    color: #50ffbc;
+  }
+  
+  .contact-btn{
+    display: inline-block;
+    padding: 12px 50px;
+    color: #50ffbc;
+    border: 2px solid #2fb984;
+    border-radius: 6px;
+    margin-top: 16px;
+    transition: .3s linear;
+  }
+  
+  .contact-btn:hover{
+    background: #2fb984;
+    color: #f2f2f2;
+  }
+  
+  .card-footer{
+    background: #;
+    padding: 40px 05px;
+  }
+  
+  .numbers{
+    display: flex;
+    align-items: center;
+  }
+  
+  
+  
