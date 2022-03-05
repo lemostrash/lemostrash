@@ -1,4 +1,4 @@
-### Olá amigo, me chamo André e tenho 20 anos 🥡
+### Olá amigo, me chamo André e tenho 20 anos 👨‍💻
 
 <div align="center">
   <a href="https://github.com/lemostrash">
@@ -10,6 +10,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/JxwLbgJ.gif">
 
 </div>
   
