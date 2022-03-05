@@ -1,4 +1,4 @@
-### Olá amigo 👋
+### Olá amigo, me chamo André e tenho 20 anos 🥡
 
 <div align="center">
   <a href="https://github.com/lemostrash">
