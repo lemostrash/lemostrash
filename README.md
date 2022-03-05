@@ -10,7 +10,7 @@
   <img align="center" alt="Lemos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lemos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lemos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/tumblr_lysyv4ko471qeh39oo1_r1_500.gifv">
+  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://38.media.tumblr.com/250faa2de4c15934d02d064d85cd9e41/tumblr_neyqoyrM051qza1qzo1_500.gif">
 
 </div>
   
