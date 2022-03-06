@@ -1,4 +1,4 @@
-### Olá amigo, me chamo André e tenho 20 anos 👨‍💻
+### Olá amigo, me chamo André e tenho 20 anos, estou cursando ciencia da computação 👨‍💻
 
 <div align="center">
   <a href="https://github.com/lemostrash">
