@@ -13,7 +13,7 @@
   <img align="center" alt="Lemos-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </br>
   <img align="center" alt="Lemos-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-pic" height="105" src="https://i.imgur.com/MMJ6KI3.gif">
+  <img align="center" alt="Rafa-pic" height="103" src="https://i.imgur.com/MMJ6KI3.gif">
 
 </div>
   
