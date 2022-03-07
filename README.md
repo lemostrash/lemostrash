@@ -1,5 +1,3 @@
-### Olá amigo, me chamo André e tenho 20 anos, estou cursando ciencia da computação 👨‍💻
-
 <div align="center">
   <a href="https://github.com/lemostrash">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lemostrash&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
