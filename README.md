@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/lemostrash">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lemostrash&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemostrash&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lemostrash&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemostrash&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
   <div style="display: inline_block"></br>
   <img align="center" alt="Lemos-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
