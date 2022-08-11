@@ -19,14 +19,6 @@
   <a href="https://www.linkedin.com/in/andr%C3%A9-de-lemos-5272b115b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
-<h2>KIT DE SKILLS</h2>
-- Photoshop
-</br>
-- Solidworks / Autodesk Invento
-</br>
-- Blender
-</br>
   
   ##
 
