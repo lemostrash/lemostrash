@@ -24,7 +24,7 @@
   
   ##
   
-  <img align="center" alt="Lemos-pic" height="103" src="https://icon-library.com/images/pixel-icon-tumblr/pixel-icon-tumblr-13.jpg">
+  <img align="left" alt="Lemos-pic" height="103" src="https://icon-library.com/images/pixel-icon-tumblr/pixel-icon-tumblr-13.jpg">
 
 </div>
 
