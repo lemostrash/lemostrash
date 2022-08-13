@@ -4,7 +4,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemostrash&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
-##
 
 <h2>Softskills</h2>
 - Criatividade
