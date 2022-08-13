@@ -8,7 +8,9 @@
 
 <h2>Softskills</h2>
 - Criatividade
+</br>
 - Criatividade
+</br>
 - Criatividade
 
   <div style="display: inline_block"></br>
