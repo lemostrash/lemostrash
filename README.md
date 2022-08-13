@@ -5,12 +5,12 @@
 </div>
 
 
-<h2>Softskills</h2>
+<h2>Soft skills</h2>
 - Criatividade
 </br>
-- Criatividade
+- Iniciativa
 </br>
-- Criatividade
+- Aprendizado ativo
 
 ##
 
@@ -24,7 +24,7 @@
   
   ##
   
-  <img align="center" alt="Lemos-pic" height="103" src="https://pa1.narvii.com/6547/6ff6730ac7ae0ceaac2c00664f0016d794af4859_hq.gif">
+  <img align="center" alt="Lemos-pic" height="103" src="https://icon-library.com/images/pixel-icon-tumblr/pixel-icon-tumblr-13.jpg">
 
 </div>
 
