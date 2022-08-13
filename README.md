@@ -24,7 +24,7 @@
   
   ##
   
-  <img align="center" alt="Lemos-pic" height="103" src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif">
+  <img align="center" alt="Lemos-pic" height="103" src="https://pa1.narvii.com/6547/6ff6730ac7ae0ceaac2c00664f0016d794af4859_hq.gif">
 
 </div>
 
