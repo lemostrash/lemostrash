@@ -6,7 +6,7 @@
 
 
 <h2>Soft skills</h2>
-- Criatividade
+- Dizem que sou criativo
 </br>
 - Iniciativa
 </br>
