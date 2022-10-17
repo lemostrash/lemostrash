@@ -6,11 +6,11 @@
 
 
 <h2>Soft skills</h2>
-- Dizem que sou criativo
+- Dizem que sou criativo.
 </br>
-- Iniciativa
+- Iniciativa.
 </br>
-- Aprendizado ativo
+- Aprendizado ativo.
 
 ##
 
