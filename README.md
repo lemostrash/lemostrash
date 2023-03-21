@@ -4,13 +4,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemostrash&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
-
-  
   <img align="left" alt="Lemos-pic" height="103" src="https://icon-library.com/images/pixel-icon-tumblr/pixel-icon-tumblr-13.jpg">
 
 </div>
-
-##
 
 
 <div> 
