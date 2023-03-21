@@ -4,14 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemostrash&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
-
-<h2>Soft skills</h2>
-- They say I'm creative.
-</br>
-- Initiative.
-</br>
-- Active learning.
-
+  
 ##
 
   <div style="display: inline_block"></br>
