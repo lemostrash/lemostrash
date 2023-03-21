@@ -1,7 +1,18 @@
-<div align="center">
-  <a href="https://github.com/lemostrash">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lemostrash&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemostrash&layout=compact&langs_count=7&theme=material-palenight"/>
+```python
+┌──(Lemostrash@root)-[~/]
+└─$ cat Lemostrash.py
+
+class Lemostrash:
+
+def  __social__(self):
+ self.instagram = "@Lemostrash"
+ self.linkedin = "https://www.linkedin.com/in/andredelemos/"
+  
+ ┌──(Lemostrash@root)-[~/]
+ └─$
+```
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemostrash&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
   <img align="left" alt="Lemos-pic" height="103" src="https://icon-library.com/images/pixel-icon-tumblr/pixel-icon-tumblr-13.jpg">
