@@ -31,5 +31,8 @@ def pesquisa_binaria(lista, item):
 
 </div>
 
+</br>
+</br>
+
 [![@lemostrash's Holopin board](https://holopin.me/lemostrash)](https://holopin.io/@lemostrash)
    
