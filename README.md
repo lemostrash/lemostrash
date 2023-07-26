@@ -31,12 +31,5 @@ def pesquisa_binaria(lista, item):
 
 </div>
 
-
-<div> 
- 
-</div>
-
-![Snake animation](https://github.com/lemostrash/lemostrash/blob/output/github-contribution-grid-snake.svg)
-
 [![@lemostrash's Holopin board](https://holopin.me/lemostrash)](https://holopin.io/@lemostrash)
    
