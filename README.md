@@ -1,6 +1,3 @@
-  <img align="left" alt="Lemos-pic" height="103" src="https://icon-library.com/images/pixel-icon-tumblr/pixel-icon-tumblr-13.jpg">
-
-
 ```python
 ┌──(Lemostrash@root)-[~/]
 └─$ cat Lemostrash.py
