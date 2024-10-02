@@ -1,3 +1,6 @@
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemostrash&layout=compact&langs_count=7&theme=material-palenight"/>
+
 ```python
 ┌──(Lemostrash@root)-[~/]
 └─$ cat Lemostrash.sh
@@ -9,7 +12,7 @@ class Lemostrash:
                           .' TO$;\     
                          /  : TP._;    
                         / _.;  :Tb|    
-                       /   /   ;j$j           hello stalker
+                       /   /   ;j$j           
                    _.-"       d$$$$    
                  .' ..       d$$$$;    
                 /  /P'      d$$$$P. |\ 
@@ -32,8 +35,5 @@ class Lemostrash:
                            ;  bug      
                                                                            
 ```
-
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemostrash&layout=compact&langs_count=7&theme=material-palenight"/>
-
 [![@lemostrash's Holopin board](https://holopin.me/lemostrash)](https://holopin.io/@lemostrash)
    
